@@ -1,4 +1,5 @@
-''' Below is an implementation of LinkedList ussing the Node class and LinkedList class. Basic operations of a linked list such insertion, deletion, and printing are implemented as methods within the LinkedList class
+''' Below is an implementation of LinkedList ussing the Node class and LinkedList class. 
+Basic operations of a linked list such insertion, deletion, and printing are implemented as methods within the LinkedList class
 '''
 
 class Node:
@@ -10,6 +11,8 @@ class LinkedList:
     
     def __init__(self):
         self.head = None
+
+''' Insert and delete elements at Head, a given position, and the end of a linked list are the methods implemented below'''
 
     def insertAthead(self,d):
         temp = Node(d)
