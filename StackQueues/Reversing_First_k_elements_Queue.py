@@ -1,3 +1,12 @@
+'''reverseK is a method that takes a queue and the integer 'k' and reverses the first 'k' elements of the queue. 
+
+Eg:
+
+  Queue = {1,2,3,4,5,6,7,9,10}    k = 5
+  Output = {5,4,3,2,1,6,7,8,9,10}
+
+'''
+
 def reverseK(queue,k):
   L = []
   LL = []

@@ -1,3 +1,5 @@
+'''findBin is a method to take every element in a queue and convert the integer into its binary representation'''
+
 def findBin(number):
   q = myQueue(number)
   L = []

@@ -1,3 +1,6 @@
+'''The following class implements two stacks with one array'''
+
+
 class twoStacks:
 
   def __init__(self,n):
@@ -7,8 +10,7 @@ class twoStacks:
     self.top2 = -1
     self.arr1 = self.arr[0:(self.size/2)]
     self.arr2 = self.arr[(self.size/2):]
-    #arr1 = self.arr[0:(len(self.arr))/2]
-    #arr2 = self.arr[len(arr1):]
+    
                        
     
 	#Insert Value in First Stack  

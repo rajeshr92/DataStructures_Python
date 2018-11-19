@@ -1,3 +1,5 @@
+'''Below is a python implementation of Stack as a data strucutre with Stack operations such as push, pop, getting the top element, etc.'''
+
 class myStack:
     def __init__(self,sizeOfArray):
         self.size = sizeOfArray

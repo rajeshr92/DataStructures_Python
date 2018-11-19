@@ -1,3 +1,5 @@
+'''Below is a python implementation of Queue as a data strucutre with queue operations such as enqueue, dequeue, getting the top element, etc.'''
+
 class myQueue:
     def __init__(self,sizeOfQ):
         self.size = sizeOfQ
