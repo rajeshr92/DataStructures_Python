@@ -17,7 +17,7 @@ def bfs(graph, StartPoint):
 
         for i in graph[current]:
             if i not in q:
-                q.insert(0,i) '''taking elements/integers from the graph and queueing it to the list 'q' only after checking if it is a parent node that has already been visited'''
+                q.insert(0,i) '''taking elements/integers from the graph and queueing it to the queue 'q' only after checking if it is a parent node that has already been visited'''
 
     return path
 
