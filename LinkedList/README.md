@@ -1,6 +1,6 @@
-# Graph Data Structure 
+# Linked List Data Structure 
 
-This is a repo showing the implementation and operations using the Graph data strcuture in Python. This repo has branches for each implementation/operation.
+This is a repo showing the implementation and operations using the Linked List data strcuture in Python. This repo has branches for each implementation/operation.
 
 ## Environment Used
 
