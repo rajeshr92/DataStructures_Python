@@ -1,3 +1,6 @@
+''' Below is an implementation of LinkedList ussing the Node class and LinkedList class. Basic operations of a linked list such insertion, deletion, and printing are implemented as methods within the LinkedList class
+'''
+
 class Node:
     def __init__(self, data):
         self.data = data
