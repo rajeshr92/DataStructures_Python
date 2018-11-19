@@ -6,7 +6,7 @@ The following is a breadth first implementation using queue data strcuture.
 
 def bfs(graph, StartPoint):
 
-    q = [StartPoint] ''' a list that is initilized with the starting point '''
+    q = [StartPoint] ''' a queue that is initilized with the starting point '''
     path = [] ''' an empty list to document the path as the program traverses through the graph '''
 
     while q:
