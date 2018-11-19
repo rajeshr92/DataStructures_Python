@@ -1,3 +1,6 @@
+
+'''removeDuplicates is a method to remove repeating elements in a linked list. The logic used was creating a list to append all the visited elements and iteratively checking the list for repetition'''
+
 def removeDuplicates(list):
   h = list.getHead().nextElement
   curr = h

@@ -1,3 +1,6 @@
+'''given a linked list that is either odd or even in length, determine the center value.'''
+
+
 def findMid(list):
   
   h = list.getHead().nextElement
