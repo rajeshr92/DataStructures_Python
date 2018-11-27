@@ -1,4 +1,4 @@
-'''The following class implements two stacks with one array'''
+'''The following class implements two stacks with two arrays'''
 
 
 class twoStacks:
